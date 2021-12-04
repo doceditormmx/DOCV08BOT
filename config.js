@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = [''] // ganti jadi group lu
-global.owner = ['6281326635396','628885960825'] // Put your number here //owner eval
-global.kontak = ['628885960825'] //Ketika ada yang ngetik #owner
-global.mods = ['6281326635396','628885960825'] // Want some help?
-global.prems = ['6281326635396','628885960825'] // Premium user has unlimited limit
+global.linkGC = ['https://chat.whatsapp.com/KMqKhTPA1sHB6GCbEpAOiY'] // ganti jadi group lu
+global.owner = ['918078499283','919061363103'] // Put your number here //owner eval
+global.kontak = ['919061363103'] //Ketika ada yang ngetik #owner
+global.mods = ['918078499283','919061363103'] // Want some help?
+global.prems = ['918078499283','919061363103'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -34,34 +34,34 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey' (apikey kalian)
   'https://api.xteam.xyz': '057f32b5931c3bce',
-  'https://api.lolhuman.xyz': 'RFK-Rey',
+  'https://api.lolhuman.xyz': 'b47358d04b1cfe811b2bc1e2',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.me': 'apivinz',
+  'https://api.zeks.me': 'doceditormmx',
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
 lolkey = 'RFK-Rey'
-zekskey = 'apivinz'
+zekskey = 'doceditormmx'
 xteamkey = '057f32b5931c3bce'
 //xteam     KYURABOT
-namaig = 'instagram.com/justme.akmall'
-namagithub = 'github.com/Akmall-236'
+namaig = 'instagram.com/doceditormmx'
+namagithub = 'github.com/doceditormmx'
 kasihcaption = `Nihh...`
-namakontak1 = 'Akmal'
-namakontak2 = ''
+namakontak1 = 'DOCEDITOR'
+namakontak2 = 'MMx'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'LTZX BOT' // ganti aja
-global.author = '' // ganti aja
+global.packname = 'DOC BOT' // ganti aja
+global.author = 'DOCEDITOR' // ganti aja
 
 //yyy
-bc = 'LTZX BOT' //RFK Broadcast
-footer = '\n© Akmalz'
-namabot = 'LtzxBOT'
-namalu = 'Akmalz'
+bc = 'DOC BOT' //RFK Broadcast
+footer = '\n© DOC'
+namabot = 'DOCBOT'
+namalu = 'Doceditor'
 
 
 // 

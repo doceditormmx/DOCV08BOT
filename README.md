@@ -16,7 +16,7 @@ Simple Rpg WhatsApp Bot Mike-bot
 
 ## Deploy to heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dawnfrosty/Mike-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/doceditormmx/DOCV08BOT)
 
 Heroku Buildpack
 | BuildPack | LINK |
@@ -35,8 +35,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Dawnfrosty/Mike-bot
-cd Mike-bot
+git clone https://github.com/doceditormmx/DOCV08BOT
+cd DOCV08BOT
 npm install
 npm update
 ```
@@ -50,7 +50,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Dawnfrosty/Mike-bot
+git clone https://github.com/Dawnfrosty/DOCV08BOT
 cd Mike-bot
 npm install
 npm update
